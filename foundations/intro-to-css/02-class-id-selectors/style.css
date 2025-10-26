@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-number {
+    background-color: rgba(243, 58, 106, 0.5);
+    font-family: Verdana, "Dejavu Sans", sans-serif
+}
+
+.third-fourth {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
